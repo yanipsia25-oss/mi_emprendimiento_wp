@@ -1,4 +1,4 @@
-﻿# Decisiones de mi sitio
+# Decisiones de mi sitio
 
 **Emprendimiento:** Peques & Lazos (Accesorios e indumentaria hipoalergénica para bebés y recién nacidos)  
 **Fecha:** 4 de noviembre de 2026 · **Última corrección (Checkpoint):** 18 de noviembre de 2026
@@ -118,7 +118,7 @@ En cumplimiento con el hito del **Checkpoint**, se revisó el estado del sitio e
 
 - **Decisión:** **CONTINUAR con el plan actual (Tema Astra en producción).**
 - **Justificación y evidencia de lo probado:**
-  - El sitio web se encuentra **100% operativo y en producción** en InfinityFree bajo la URL: [https://pequesylazos.infinityfreeapp.com](https://pequesylazos.infinityfreeapp.com).
+  - El sitio web se encuentra **100% operativo y en producción** en InfinityFree bajo la URL: [http://babyaccesorios.infinityfree.me](http://babyaccesorios.infinityfree.me).
   - Durante las pruebas de navegación, el sitio no arrojó errores críticos (404, 500 o fallos de base de datos).
   - Los plugins activos (**Yoast SEO**, **WPForms Lite**, **Joinchat** y **Smush**) operan en armonía sin generar conflictos de JavaScript ni ralentizar el tiempo de respuesta.
   - La estructura desarrollada cumple a cabalidad con la pauta del Checkpoint (10 pts de tema y estabilidad, 6 pts de páginas obligatorias en menú, 6 pts de 3 entradas y 8 pts de documentación actualizada).

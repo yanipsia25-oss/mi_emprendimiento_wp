@@ -2,7 +2,7 @@
 
 > **Proyecto de la Evaluación 03 — Sitios Web y Landing Pages (DUOC UC).**
 
-- **Sitio en producción:** https://pequesylazos.infinityfreeapp.com (InfinityFree)
+- **Sitio en producción:** http://babyaccesorios.infinityfree.me (InfinityFree)
 - **Prototipo en Stitch:** https://stitch.withgoogle.com/projects/peques-y-lazos-accesorios
 - **Repo del Parcial 02:** https://github.com/yanipsia25-oss/mi-emprendimiento
 - **Autor/a:** Yanipsia — Sitios Web y Landing Pages
