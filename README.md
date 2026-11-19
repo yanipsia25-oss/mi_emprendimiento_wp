@@ -1,4 +1,4 @@
-﻿# Peques & Lazos · Sitio WordPress
+# Peques & Lazos · Sitio WordPress
 
 > **Proyecto de la Evaluación 03 — Sitios Web y Landing Pages (DUOC UC).**
 
